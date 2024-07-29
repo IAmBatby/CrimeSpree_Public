@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c909793d99ee50148a0828155008cae3, type: 3}
+  m_Name: Ghost
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: challenge
+      Entry: 6
+      Data: 
+  challengeName: Ghost
+  challengeDescription: You can never be detected. Camera footage must be erased
+    if recorded.
+  challengeIcon: {fileID: 21300000, guid: 1d59ef55bc5c8014a87842f4618d24b9, type: 3}
+  defaultIcon: {fileID: 21300000, guid: 3685912c87a6a954e83205552ec2ef2c, type: 3}
+  challengeDifficulty: 0
+  challengeScript: {fileID: 0}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ea49b5765cb88a449dbb0d62541f57c, type: 3}
+  m_Name: Tripmine
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: equipmentType
+      Entry: 6
+      Data: 
+  displayName: Trip-Mine
+  equipmentIcon: {fileID: 21300000, guid: 3ae0ac1dc0abd5941afd6903bde99196, type: 3}
+  placedEquipmentPrefab: {fileID: 424453076120601183, guid: 67a40039a7d4d5e42af2e437066287be,
+    type: 3}
+  previewPlacementOffset: {x: 0, y: 0.125, z: 0}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6047eca3c067b643b4db1812ba2f357, type: 3}
+  m_Name: ScriptableManagerSettings
+  m_EditorClassIdentifier: 
+  gamePrefab: {fileID: 2785192884990101360, guid: 8970c79513b2ecf49867ca5db02825d5,
+    type: 3}
+  levelParentObject: {fileID: 0}
+  objectivesParentObject: {fileID: 0}
+  snappingWaypointsMask:
+    serializedVersion: 2
+    m_Bits: 16793857
+  guard: {fileID: 3158681475952011412, guid: dcc0dd1958979d94c9bf3bcbdc91afa4, type: 3}
+  civilian: {fileID: 7095979131660768154, guid: 32a0ea029fa01034cb210e2877de7baf,
+    type: 3}
+  waypointCollection: {fileID: 5162249514807559050, guid: ef2d3c6c08afaf94eb6bf9504040b8b6,
+    type: 3}
+  lootBag: {fileID: 3714499675715710710, guid: 52c8e9fc995790b4e968ff3534807167, type: 3}
+  serverRack: {fileID: 4855936098300816874, guid: bf2e23bae1781bd45b9a213a286231fb,
+    type: 3}
+  computerDesk: {fileID: 9094639671305609069, guid: 2c62c95de34a3b941b11955b60f226e5,
+    type: 3}
+  defaultDoor: {fileID: 2800018856314457715, guid: 2760430adf8c67141a683d1e1925aa2c,
+    type: 3}
+  defaultDoorMolded: {fileID: 7212183441402418921, guid: 76df79d4d34341045869a5899dbf9493,
+    type: 3}
+  doubleDoor: {fileID: 1743080211677388698, guid: ffc9c36e282fadb4abd6ca7cedc11f43,
+    type: 3}
+  doubleDoorMolded: {fileID: 5957677690801091409, guid: 96766365a9a7f8946bfa18439621af99,
+    type: 3}
+  distraction: {fileID: 6170281405827683309, guid: 83c4d9699b79a1e4a9ab6730098a558e,
+    type: 3}
+  objective: {fileID: 0}
+  objectiveTrigger: {fileID: 8425429669522717463, guid: 13dfbe87076768741b5e8469263d2049,
+    type: 3}
+  objectiveLoot: {fileID: 5981830621765258155, guid: a22fab28ffd35e74aa8d614228845487,
+    type: 3}
+  objectiveTimer: {fileID: 4272392228650635285, guid: c554d1a9ad1c9e34f9c34deae897ef3d,
+    type: 3}
+  endLevelTrigger: {fileID: 1557736604195757275, guid: 74bf7afd646d1004ca251741eca39dd8,
+    type: 3}
+  proBuilderCube: {fileID: 4285760561503177451, guid: c521aa8ea94ac16479931e9450475c35,
+    type: 3}
+  favouriteScenesList:
+  - Office
+  scenesFolder: Assets/Project/Scenes/
+  newScenesFolder: Assets/Project/Scenes/Gameplay/Generated/
+  drawWaypointGizmos: 0

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5981830621765258155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5981830621765258157}
+  - component: {fileID: 5981830621765258156}
+  m_Layer: 0
+  m_Name: ObjectiveLoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5981830621765258157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5981830621765258155}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5981830621765258156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5981830621765258155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0671b752f9b647544bfbc3bdd0185a16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectiveState: 0
+  objectiveName: 
+  objectiveDescription: 
+  hasSecondaryText: 0
+  secondaryText: 
+  hasSecondaryData: 0
+  secondaryData: 
+  crunchOnSecondaryUpdate: 0
+  onObjectiveStateSetAudio: {fileID: 0}
+  objectiveType: 0
+  objectiveVisability: 0
+  objectiveUIPreference: 1
+  objectiveDictionary:
+    _serializedList: []
+  stateEventsBitmask: 0
+  inactiveEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  activeEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  completedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  failedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  gameManager: {fileID: 0}
+  levelManager: {fileID: 0}
+  lootData: {fileID: 0}
+  useAllOfLootAvailable: 1
+  lootCountAmount: 0
+  onCountCompletion: 2

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652bacf83ab973640b245df1d09c1684, type: 3}
+  m_Name: RemoteSignOut
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: skill
+      Entry: 6
+      Data: 
+  skillName: Remote Sign Out
+  skillDescription: You can now sign out Guards using a touch pad
+  skillType: 3
+  skillCatagory: 1
+  skillPointCost: 8
+  skillTreeUnlockRequirement: 6
+  requiredSkill: {fileID: 11400000, guid: 345ac28f422c5434c9c638b861ef9d3f, type: 2}
+  skillIcon: {fileID: 21300000, guid: 53bae246e488d6048a398c2b6af925b1, type: 3}

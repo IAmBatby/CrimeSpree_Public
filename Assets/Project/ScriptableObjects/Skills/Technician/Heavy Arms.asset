@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652bacf83ab973640b245df1d09c1684, type: 3}
+  m_Name: Heavy Arms
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: skill
+      Entry: 6
+      Data: 
+  skillName: Heavy Arms
+  skillDescription: Bags will now be thrown at a much faster rate, If a bag is thrown
+    at a NPC, They will be thrown to the floor and temporaily stunned.
+  skillType: 0
+  skillCatagory: 2
+  skillPointCost: 6
+  skillTreeUnlockRequirement: 4
+  requiredSkill: {fileID: 0}
+  skillIcon: {fileID: 21300000, guid: 348c92bcd9e178941a468862ecc3b27b, type: 3}

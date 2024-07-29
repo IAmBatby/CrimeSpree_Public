@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652bacf83ab973640b245df1d09c1684, type: 3}
+  m_Name: XRayKit
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: skill
+      Entry: 6
+      Data: 
+  skillName: X-Ray Kit
+  skillDescription: This unlocks the X-Ray Kit Equipment. This equipment lets you
+    place two points on a wall and see through the other side.
+  skillType: 2
+  skillCatagory: 1
+  skillPointCost: 6
+  skillTreeUnlockRequirement: 4
+  requiredSkill: {fileID: 0}
+  skillIcon: {fileID: 21300000, guid: d167eba41e7d9b343aff1b1b4881354c, type: 3}

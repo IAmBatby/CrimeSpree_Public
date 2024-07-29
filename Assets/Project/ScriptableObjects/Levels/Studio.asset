@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d0f50836822154793ef14ceee0f975, type: 3}
+  m_Name: Studio
+  m_EditorClassIdentifier: 
+  levelName: Shoddy Slodge Studios
+  levelDifficulty: '* *'
+  levelTier: 0
+  levelSceneName: Office
+  levelDescription: sepfgnsdrpognbsrpoignbespigbsepgbsepgbpsidbgspdiogs
+  levelObjectives: '- Break Into The Studio<br> - Find A Way To Clear Out The Offices<br>
+    - Steal Computer Parts From The Newly Upgraded PC''s<br>- Find Leads For A New
+    Heist<br> - Escape! '
+  levelThumbnail: {fileID: 21300000, guid: 49ece5469559d9746adf8d18e195ba8a, type: 3}
+  levelIcon: {fileID: 21300000, guid: 23c25a21fc34155498dac3b1cc9191da, type: 3}
+  levelMusic: {fileID: 8300000, guid: 4634c14ff2d1a6c4492a583f6e6b0fd2, type: 3}
+  randomisedChallenges: []
